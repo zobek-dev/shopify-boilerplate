@@ -1,0 +1,4 @@
+development:
+  password: THEME-KIT-PASSWORD-TOKEN
+  theme_id: "THEME-ID"
+  store: STORE-URL
